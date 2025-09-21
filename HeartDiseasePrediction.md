@@ -354,7 +354,7 @@ except Exception:
     print('XGBoost not installed — skipping')
 ```
 
-    XGBoost not installed — skipping
+    XGBoost available — added to model list
     
 
 
